@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bsert": "0.0.10",
+    "level": "^5.0.1",
     "minimist": "^1.2.0",
     "multiaddr": "^7.1.0",
     "secp256k1": "^3.7.1",
