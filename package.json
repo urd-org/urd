@@ -1,5 +1,5 @@
 {
-  "name": "bridge-prototype",
+  "name": "urd",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcfg": "^0.1.6",
     "blgr": "^0.1.7",
     "bsert": "0.0.10",
     "emittery": "^0.5.1",
+    "express": "^4.17.1",
     "level": "^5.0.1",
     "minimist": "^1.2.0",
     "multiaddr": "^7.1.0",
