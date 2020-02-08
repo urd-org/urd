@@ -17,6 +17,7 @@
     "express-graphql": "^0.9.0",
     "graphql": "^14.6.0",
     "level": "^5.0.1",
+    "mafmt": "^7.1.0",
     "minimist": "^1.2.0",
     "multiaddr": "^7.1.0",
     "secp256k1": "^3.7.1",
