@@ -22,9 +22,11 @@
     "mafmt": "^7.1.0",
     "minimist": "^1.2.0",
     "multiaddr": "^7.1.0",
+    "n64": "^0.2.10",
     "secp256k1": "^3.7.1",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
+    "urkel": "^0.6.3",
     "uuid": "^3.4.0",
     "winston": "^3.2.1"
   },
